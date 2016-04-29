@@ -12,10 +12,11 @@
         "@smartface/smartface.about": "*",
         "@smartface/smartface.ide.theme": "*",
         "@smartface/smartface.language": "*",
+        "@smartface/smartface.newfile": "*",
         "@smartface/smartface.publish.wizard": "*",
         "@smartface/smartface.emulator": "*",
         "@smartface/smartface.updater": "*",
         "@smartface/smartface.welcome": "*",
-        "@smartface/smartface.jquery": "*"
+        "@smartface/smartface.jquery": "*",
     }
 }
